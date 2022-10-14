@@ -98,7 +98,7 @@ const Data = [
         title: "CONTACT",
         email: {
           title: "savaliyanilesh08@gmail.com",
-          link: "mail:savaliyanilesh08@gmail.com",
+          link: "mailto:savaliyanilesh08@gmail.com",
         },
         mobile: {
           title: "+917767019917",
